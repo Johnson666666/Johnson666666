@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# 😄About Me
+😈A Script Boy.I want to hack the world - JUST DO IT！
 <!--
 **Johnson666666/Johnson666666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
