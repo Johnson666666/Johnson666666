@@ -1,9 +1,15 @@
-### 😄About Me
-😈A Script Boy. I want to hack the world -> JUST DO IT！
+## Hey there 👋, I'm Johnson666!
 
 公众号：挽风安全
 
-博客：https://johnson666.blog.csdn.net/
+QQ: 1415386263
+
+blog：https://johnson666.blog.csdn.net/
+
+### 😄About Me
+😈A Script Boy. I want to hack the world -> JUST DO IT！
+
+
 <!--
 **Johnson666666/Johnson666666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
