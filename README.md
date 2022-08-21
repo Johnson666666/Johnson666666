@@ -9,9 +9,9 @@ blog：https://johnson666.blog.csdn.net/
 ## 😄About Me
 😈A Script Boy. I want to hack the world -> JUST DO IT！
 
-💖 Favorite: Hacker, Exercise, Music
+- 💖 Favorite: Hacker, Exercise, Music
 
-💎 Team: Day1 Security Team
+- 💎 Team: Day1 Security Team
 
 web安全 | 云安全 | app与小程序安全 | 隐私合规安全 | 渗透测试
 
