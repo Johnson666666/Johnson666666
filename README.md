@@ -16,7 +16,7 @@ blog：https://johnson666.blog.csdn.net/
 web安全 | 云安全 | app与小程序安全 | 隐私合规安全 | 渗透测试
 
 ## Stats
-![Johnson666 github stats](https://github-readme-stats.vercel.app/api?username=Johnson666666&show_icons=true&hide_border=false&theme=default&count_private=true&hide_title=false)
+![Johnson666 github stats](https://github-readme-stats.vercel.app/api?username=Johnson666666&show_icons=true&hide_border=false&theme=default&count_private=true&hide_title=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnson666666&hide=html&theme=default&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
