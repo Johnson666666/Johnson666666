@@ -11,6 +11,9 @@ blog：https://johnson666.blog.csdn.net/
 
 web安全 | 云安全 | app与小程序安全 | 隐私合规安全 | 渗透测试
 
+·💖 Favorite: Hacker, Exercise, Music
+·💎 Team: Day1 Security Team
+
 <!--
 **Johnson666666/Johnson666666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
