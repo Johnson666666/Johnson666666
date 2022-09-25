@@ -19,6 +19,8 @@ web安全 | 云安全 | app与小程序安全 | 隐私合规安全 | 渗透测�
 ![Johnson666 github stats](https://github-readme-stats.vercel.app/api?username=Johnson666666&show_icons=true&hide_border=false&theme=default&count_private=true&hide_title=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnson666666&hide=html&theme=default&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
+## Visit Count
+![Visitor Count](https://profile-counter.glitch.me/Johnson666/count.svg)
 
 <!--
 **Johnson666666/Johnson666666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
